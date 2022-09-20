@@ -1,1 +1,7 @@
+1) Window Object :
+ans:
+   The window object is the topmost object of the DOM hierarchy, it represent a browser window or frame that displays the content of the webpage. whenever a window appears the on the screen to display the contents of the document, the window object created.
 
+2)Document Object :
+ans:
+    The document object represent a web page that is loaded in the browser. by accessing the document object, we can add dynamic content to our webpage. the document object can be accessed with a window.document or just document
